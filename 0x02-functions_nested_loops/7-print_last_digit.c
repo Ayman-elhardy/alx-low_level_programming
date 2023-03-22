@@ -7,6 +7,7 @@
  */
 
 int print_last_digit(int);
+
 {
 	int a;
 
