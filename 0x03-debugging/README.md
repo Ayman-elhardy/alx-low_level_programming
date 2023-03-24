@@ -1,0 +1,1 @@
+This file contains some practice examples on how to approach bugs and solve them.
