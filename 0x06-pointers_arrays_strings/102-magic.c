@@ -1,12 +1,5 @@
 #include <stdio.h>
 
-/**
- * main - Entry point
- *
- * Description: the magic task
- *
- * Return: void
- */
 int main(void)
 {
 	int n;
@@ -28,4 +21,3 @@ int main(void)
 	printf("a[2] = %d\n", a[2]);
 	return (0);
 }
-
