@@ -1,0 +1,1 @@
+This is the third assignement about pointers, arrays, and strings. it goes in depth through the concept of pointers that points to other pointers.
