@@ -1,0 +1,1 @@
+This file have several practice examples on the concept of memory Allocation (known as the commande malloc) as well as the free commande which, as its name suggests, frees memory that was previously allocated to a program.
