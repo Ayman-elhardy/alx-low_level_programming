@@ -1,0 +1,1 @@
+Within the Alx - Low level programming folder contains several tasks that goes through the concept of pointers, but the latter was only limited to arrays and strings. In this folder, additional tasks on pointers will be done, except this time it will be done on functions.
