@@ -1,0 +1,1 @@
+Through this file an introduction to singly linked files is made, clarifying its differences with arrays.
