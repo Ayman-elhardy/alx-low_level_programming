@@ -1,0 +1,1 @@
+This directory has additional practice in linked lists, getting more in depth in this concept.
